@@ -1,0 +1,36 @@
+C:\Users\balam\source\repos\WebApi91\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\balam\source\repos\WebApi91\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\balam\source\repos\WebApi91\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\balam\source\repos\WebApi91\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\balam\source\repos\WebApi91\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\balam\source\repos\WebApi91\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\balam\source\repos\WebApi91\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\balam\source\repos\WebApi91\Domain\obj\Debug\net6.0\Domain.sourcelink.json
+C:\Users\balam\source\repos\WebApi91\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\balam\source\repos\WebApi91\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\balam\source\repos\WebApi91\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\balam\source\repos\WebApi91\Domain\obj\Debug\net6.0\ref\Domain.dll
+D:\9cuatrimestre\WebApi91\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\9cuatrimestre\WebApi91\Domain\bin\Debug\net6.0\Domain.dll
+D:\9cuatrimestre\WebApi91\Domain\bin\Debug\net6.0\Domain.pdb
+D:\9cuatrimestre\WebApi91\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\9cuatrimestre\WebApi91\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\9cuatrimestre\WebApi91\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\9cuatrimestre\WebApi91\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\9cuatrimestre\WebApi91\Domain\obj\Debug\net6.0\Domain.dll
+D:\9cuatrimestre\WebApi91\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\9cuatrimestre\WebApi91\Domain\obj\Debug\net6.0\Domain.pdb
+D:\9cuatrimestre\WebApi91\Domain\obj\Debug\net6.0\ref\Domain.dll
+D:\9cuatrimestre\WebApi91\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\Domain\obj\Debug\net6.0\ref\Domain.dll

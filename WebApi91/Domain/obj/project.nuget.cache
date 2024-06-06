@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BIkV6SOgdKo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pablo\\Documents\\Cuatrimestre 9\\WebApi91\\WebApi91\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pablo\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512"
+  ],
+  "logs": []
+}

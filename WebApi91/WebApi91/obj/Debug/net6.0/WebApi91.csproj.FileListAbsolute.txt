@@ -1,0 +1,204 @@
+C:\Users\balam\source\repos\WebApi91\WebApi91\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\balam\source\repos\WebApi91\WebApi91\bin\Debug\net6.0\appsettings.json
+C:\Users\balam\source\repos\WebApi91\WebApi91\bin\Debug\net6.0\WebApi91.exe
+C:\Users\balam\source\repos\WebApi91\WebApi91\bin\Debug\net6.0\WebApi91.deps.json
+C:\Users\balam\source\repos\WebApi91\WebApi91\bin\Debug\net6.0\WebApi91.runtimeconfig.json
+C:\Users\balam\source\repos\WebApi91\WebApi91\bin\Debug\net6.0\WebApi91.dll
+C:\Users\balam\source\repos\WebApi91\WebApi91\bin\Debug\net6.0\WebApi91.pdb
+C:\Users\balam\source\repos\WebApi91\WebApi91\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\balam\source\repos\WebApi91\WebApi91\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\balam\source\repos\WebApi91\WebApi91\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\balam\source\repos\WebApi91\WebApi91\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\balam\source\repos\WebApi91\WebApi91\obj\Debug\net6.0\WebApi91.csproj.AssemblyReference.cache
+C:\Users\balam\source\repos\WebApi91\WebApi91\obj\Debug\net6.0\WebApi91.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\balam\source\repos\WebApi91\WebApi91\obj\Debug\net6.0\WebApi91.AssemblyInfoInputs.cache
+C:\Users\balam\source\repos\WebApi91\WebApi91\obj\Debug\net6.0\WebApi91.AssemblyInfo.cs
+C:\Users\balam\source\repos\WebApi91\WebApi91\obj\Debug\net6.0\WebApi91.csproj.CoreCompileInputs.cache
+C:\Users\balam\source\repos\WebApi91\WebApi91\obj\Debug\net6.0\WebApi91.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\balam\source\repos\WebApi91\WebApi91\obj\Debug\net6.0\WebApi91.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\balam\source\repos\WebApi91\WebApi91\obj\Debug\net6.0\WebApi91.sourcelink.json
+C:\Users\balam\source\repos\WebApi91\WebApi91\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\balam\source\repos\WebApi91\WebApi91\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\balam\source\repos\WebApi91\WebApi91\obj\Debug\net6.0\staticwebassets\msbuild.WebApi91.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\balam\source\repos\WebApi91\WebApi91\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApi91.props
+C:\Users\balam\source\repos\WebApi91\WebApi91\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApi91.props
+C:\Users\balam\source\repos\WebApi91\WebApi91\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApi91.props
+C:\Users\balam\source\repos\WebApi91\WebApi91\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\balam\source\repos\WebApi91\WebApi91\obj\Debug\net6.0\scopedcss\bundle\WebApi91.styles.css
+C:\Users\balam\source\repos\WebApi91\WebApi91\obj\Debug\net6.0\WebApi91.csproj.Up2Date
+C:\Users\balam\source\repos\WebApi91\WebApi91\obj\Debug\net6.0\WebApi91.dll
+C:\Users\balam\source\repos\WebApi91\WebApi91\obj\Debug\net6.0\refint\WebApi91.dll
+C:\Users\balam\source\repos\WebApi91\WebApi91\obj\Debug\net6.0\WebApi91.pdb
+C:\Users\balam\source\repos\WebApi91\WebApi91\obj\Debug\net6.0\WebApi91.genruntimeconfig.cache
+C:\Users\balam\source\repos\WebApi91\WebApi91\obj\Debug\net6.0\ref\WebApi91.dll
+C:\Users\balam\source\repos\WebApi91\WebApi91\bin\Debug\net6.0\Humanizer.dll
+C:\Users\balam\source\repos\WebApi91\WebApi91\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\balam\source\repos\WebApi91\WebApi91\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\balam\source\repos\WebApi91\WebApi91\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\balam\source\repos\WebApi91\WebApi91\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\balam\source\repos\WebApi91\WebApi91\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\balam\source\repos\WebApi91\WebApi91\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\balam\source\repos\WebApi91\WebApi91\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\balam\source\repos\WebApi91\WebApi91\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\balam\source\repos\WebApi91\WebApi91\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\balam\source\repos\WebApi91\WebApi91\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\balam\source\repos\WebApi91\WebApi91\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\balam\source\repos\WebApi91\WebApi91\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\balam\source\repos\WebApi91\WebApi91\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\balam\source\repos\WebApi91\WebApi91\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\balam\source\repos\WebApi91\WebApi91\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\balam\source\repos\WebApi91\WebApi91\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\balam\source\repos\WebApi91\WebApi91\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\balam\source\repos\WebApi91\WebApi91\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\balam\source\repos\WebApi91\WebApi91\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\balam\source\repos\WebApi91\WebApi91\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\balam\source\repos\WebApi91\WebApi91\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\balam\source\repos\WebApi91\WebApi91\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\balam\source\repos\WebApi91\WebApi91\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\balam\source\repos\WebApi91\WebApi91\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\balam\source\repos\WebApi91\WebApi91\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\balam\source\repos\WebApi91\WebApi91\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\balam\source\repos\WebApi91\WebApi91\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\balam\source\repos\WebApi91\WebApi91\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\balam\source\repos\WebApi91\WebApi91\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\balam\source\repos\WebApi91\WebApi91\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\balam\source\repos\WebApi91\WebApi91\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\balam\source\repos\WebApi91\WebApi91\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\balam\source\repos\WebApi91\WebApi91\bin\Debug\net6.0\Domain.dll
+C:\Users\balam\source\repos\WebApi91\WebApi91\bin\Debug\net6.0\Domain.pdb
+D:\9cuatrimestre\WebApi91\WebApi91\bin\Debug\net6.0\appsettings.json
+D:\9cuatrimestre\WebApi91\WebApi91\bin\Debug\net6.0\appsettings.Development.json
+D:\9cuatrimestre\WebApi91\WebApi91\bin\Debug\net6.0\WebApi91.exe
+D:\9cuatrimestre\WebApi91\WebApi91\bin\Debug\net6.0\WebApi91.deps.json
+D:\9cuatrimestre\WebApi91\WebApi91\bin\Debug\net6.0\WebApi91.runtimeconfig.json
+D:\9cuatrimestre\WebApi91\WebApi91\bin\Debug\net6.0\WebApi91.dll
+D:\9cuatrimestre\WebApi91\WebApi91\bin\Debug\net6.0\WebApi91.pdb
+D:\9cuatrimestre\WebApi91\WebApi91\bin\Debug\net6.0\Humanizer.dll
+D:\9cuatrimestre\WebApi91\WebApi91\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\9cuatrimestre\WebApi91\WebApi91\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\9cuatrimestre\WebApi91\WebApi91\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\9cuatrimestre\WebApi91\WebApi91\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\9cuatrimestre\WebApi91\WebApi91\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\9cuatrimestre\WebApi91\WebApi91\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\9cuatrimestre\WebApi91\WebApi91\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\9cuatrimestre\WebApi91\WebApi91\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\9cuatrimestre\WebApi91\WebApi91\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\9cuatrimestre\WebApi91\WebApi91\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\9cuatrimestre\WebApi91\WebApi91\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\9cuatrimestre\WebApi91\WebApi91\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\9cuatrimestre\WebApi91\WebApi91\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\9cuatrimestre\WebApi91\WebApi91\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\9cuatrimestre\WebApi91\WebApi91\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\9cuatrimestre\WebApi91\WebApi91\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\9cuatrimestre\WebApi91\WebApi91\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\9cuatrimestre\WebApi91\WebApi91\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\9cuatrimestre\WebApi91\WebApi91\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\9cuatrimestre\WebApi91\WebApi91\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\9cuatrimestre\WebApi91\WebApi91\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\9cuatrimestre\WebApi91\WebApi91\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\9cuatrimestre\WebApi91\WebApi91\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\9cuatrimestre\WebApi91\WebApi91\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\9cuatrimestre\WebApi91\WebApi91\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\9cuatrimestre\WebApi91\WebApi91\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\9cuatrimestre\WebApi91\WebApi91\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\9cuatrimestre\WebApi91\WebApi91\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\9cuatrimestre\WebApi91\WebApi91\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\9cuatrimestre\WebApi91\WebApi91\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\9cuatrimestre\WebApi91\WebApi91\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\9cuatrimestre\WebApi91\WebApi91\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\9cuatrimestre\WebApi91\WebApi91\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\9cuatrimestre\WebApi91\WebApi91\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\9cuatrimestre\WebApi91\WebApi91\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\9cuatrimestre\WebApi91\WebApi91\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\9cuatrimestre\WebApi91\WebApi91\bin\Debug\net6.0\Domain.dll
+D:\9cuatrimestre\WebApi91\WebApi91\bin\Debug\net6.0\Domain.pdb
+D:\9cuatrimestre\WebApi91\WebApi91\obj\Debug\net6.0\WebApi91.csproj.AssemblyReference.cache
+D:\9cuatrimestre\WebApi91\WebApi91\obj\Debug\net6.0\WebApi91.GeneratedMSBuildEditorConfig.editorconfig
+D:\9cuatrimestre\WebApi91\WebApi91\obj\Debug\net6.0\WebApi91.AssemblyInfoInputs.cache
+D:\9cuatrimestre\WebApi91\WebApi91\obj\Debug\net6.0\WebApi91.AssemblyInfo.cs
+D:\9cuatrimestre\WebApi91\WebApi91\obj\Debug\net6.0\WebApi91.csproj.CoreCompileInputs.cache
+D:\9cuatrimestre\WebApi91\WebApi91\obj\Debug\net6.0\WebApi91.MvcApplicationPartsAssemblyInfo.cs
+D:\9cuatrimestre\WebApi91\WebApi91\obj\Debug\net6.0\WebApi91.MvcApplicationPartsAssemblyInfo.cache
+D:\9cuatrimestre\WebApi91\WebApi91\obj\Debug\net6.0\staticwebassets.build.json
+D:\9cuatrimestre\WebApi91\WebApi91\obj\Debug\net6.0\staticwebassets.development.json
+D:\9cuatrimestre\WebApi91\WebApi91\obj\Debug\net6.0\staticwebassets\msbuild.WebApi91.Microsoft.AspNetCore.StaticWebAssets.props
+D:\9cuatrimestre\WebApi91\WebApi91\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApi91.props
+D:\9cuatrimestre\WebApi91\WebApi91\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApi91.props
+D:\9cuatrimestre\WebApi91\WebApi91\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApi91.props
+D:\9cuatrimestre\WebApi91\WebApi91\obj\Debug\net6.0\staticwebassets.pack.json
+D:\9cuatrimestre\WebApi91\WebApi91\obj\Debug\net6.0\scopedcss\bundle\WebApi91.styles.css
+D:\9cuatrimestre\WebApi91\WebApi91\obj\Debug\net6.0\WebApi91.csproj.Up2Date
+D:\9cuatrimestre\WebApi91\WebApi91\obj\Debug\net6.0\WebApi91.dll
+D:\9cuatrimestre\WebApi91\WebApi91\obj\Debug\net6.0\refint\WebApi91.dll
+D:\9cuatrimestre\WebApi91\WebApi91\obj\Debug\net6.0\WebApi91.pdb
+D:\9cuatrimestre\WebApi91\WebApi91\obj\Debug\net6.0\WebApi91.genruntimeconfig.cache
+D:\9cuatrimestre\WebApi91\WebApi91\obj\Debug\net6.0\ref\WebApi91.dll
+D:\9cuatrimestre\WebApi91\WebApi91\bin\Debug\net6.0\Dapper.dll
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\bin\Debug\net6.0\appsettings.json
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\bin\Debug\net6.0\WebApi91.exe
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\bin\Debug\net6.0\WebApi91.deps.json
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\bin\Debug\net6.0\WebApi91.runtimeconfig.json
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\bin\Debug\net6.0\WebApi91.dll
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\bin\Debug\net6.0\WebApi91.pdb
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\bin\Debug\net6.0\Dapper.dll
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\bin\Debug\net6.0\Domain.dll
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\bin\Debug\net6.0\Domain.pdb
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\obj\Debug\net6.0\WebApi91.csproj.AssemblyReference.cache
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\obj\Debug\net6.0\WebApi91.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\obj\Debug\net6.0\WebApi91.AssemblyInfoInputs.cache
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\obj\Debug\net6.0\WebApi91.AssemblyInfo.cs
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\obj\Debug\net6.0\WebApi91.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\obj\Debug\net6.0\WebApi91.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\obj\Debug\net6.0\WebApi91.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\obj\Debug\net6.0\staticwebassets\msbuild.WebApi91.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApi91.props
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApi91.props
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApi91.props
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\obj\Debug\net6.0\scopedcss\bundle\WebApi91.styles.css
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\obj\Debug\net6.0\WebApi91.csproj.Up2Date
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\obj\Debug\net6.0\WebApi91.dll
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\obj\Debug\net6.0\refint\WebApi91.dll
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\obj\Debug\net6.0\WebApi91.pdb
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\obj\Debug\net6.0\WebApi91.genruntimeconfig.cache
+C:\Users\Pablo\Documents\Cuatrimestre 9\WebApi91\WebApi91\WebApi91\obj\Debug\net6.0\ref\WebApi91.dll
